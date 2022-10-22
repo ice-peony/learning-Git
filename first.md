@@ -33,7 +33,7 @@ __________________
 使用~~创建删除线  
  ~~你看~~  
 使用"<u>xiahuaxian</u>"创建下划线 
-<u>列如</u>
+<u> 列如 </u>
 
 
 注脚 [^pengbun] : 脚注。未能显示
@@ -67,9 +67,9 @@ __________________
 
 8、图片
 ------------
-![alt 属性文本](图片地址)  
-使用以下指定图片的高度和宽度
-<img src="http://static.runoob.com/images/runoob-logo.png" width="50%">
+![图片名字](图片地址)  
+使用以下指定图片的高度和宽度  
+<img src="http://static.runoob.com/images/runoob-logo.png" width="20%">
 
 9、表格
 ------------
